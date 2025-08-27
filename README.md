@@ -8,8 +8,6 @@ The project demonstrates how to structure a scalable dashboard with charts, tabl
 
 ## Live Demo
  [View Live Demo](https://react-admin-dashboard-master-qerc7w19v.vercel.app)  
-*(Replace this link with your deployed project on Vercel)*
-
 ---
 
 ##  Tech Stack & Tools
